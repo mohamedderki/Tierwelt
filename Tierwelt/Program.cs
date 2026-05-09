@@ -8,6 +8,7 @@ namespace Tierwelt
         {
             Console.WriteLine("Welcome to Tierwelt!");
             Console.WriteLine("Git and GitHub project.");
+            Console.WriteLine("Feature A branch");
         }
     }
 }
